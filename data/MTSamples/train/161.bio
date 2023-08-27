@@ -1,0 +1,10 @@
+The	O
+patient	O
+has	O
+history	O
+of	O
+elevated	B-problem
+PSA	I-problem
+and	I-problem
+BPH	I-problem
+.	O

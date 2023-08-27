@@ -1,0 +1,11 @@
+She	O
+denies	O
+cough	B-problem
+,	O
+hemoptysis	B-problem
+,	O
+dyspnea	B-problem
+,	O
+and	O
+wheeze	B-problem
+.	O

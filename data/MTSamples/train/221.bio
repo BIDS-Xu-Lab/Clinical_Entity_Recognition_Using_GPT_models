@@ -1,0 +1,17 @@
+The	O
+patient	O
+currently	O
+is	O
+receiving	O
+feedings	B-treatment
+via	O
+tube	B-treatment
+and	O
+also	O
+she	O
+has	O
+a	B-treatment
+tracheostomy	I-treatment
+in	O
+place	O
+.	O

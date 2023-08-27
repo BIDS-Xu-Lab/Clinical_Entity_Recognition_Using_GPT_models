@@ -1,0 +1,17 @@
+He	O
+was	O
+hospitalized	O
+3	O
+months	O
+prior	O
+to	O
+his	O
+current	O
+presentation	O
+with	O
+abdominal	B-problem
+pain	I-problem
+and	O
+diffuse	B-problem
+lymphadenopathy	I-problem
+.	O

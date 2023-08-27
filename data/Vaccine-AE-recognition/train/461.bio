@@ -1,0 +1,13 @@
+Patient O
+admitted O
+to O
+hospital B-procedure
+with O
+ascending B-nervous_AE
+polyneuropathy I-nervous_AE
+consistent O
+with O
+Guillain B-nervous_AE
+Barre I-nervous_AE
+Syndrome I-nervous_AE
+. O

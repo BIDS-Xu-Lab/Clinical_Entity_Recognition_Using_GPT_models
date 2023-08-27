@@ -1,0 +1,17 @@
+He	O
+denied	O
+any	O
+history	O
+of	O
+chest	B-problem
+pain	I-problem
+and	O
+did	O
+not	O
+report	O
+any	O
+history	O
+of	O
+myocardial	B-problem
+infarction	I-problem
+.	O

@@ -1,0 +1,16 @@
+The	O
+patient	O
+was	O
+brought	O
+by	O
+ambulance	O
+following	O
+a	O
+motor	B-problem
+vehicle	I-problem
+collision	I-problem
+approximately	O
+45	O
+minutes	O
+ago	O
+.	O

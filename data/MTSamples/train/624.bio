@@ -1,0 +1,14 @@
+At	O
+that	O
+time	O
+the	O
+patient	O
+became	O
+comatose	B-problem
+and	O
+required	O
+emergent	B-treatment
+intubation	I-treatment
+and	O
+paralyzation	B-treatment
+.	O

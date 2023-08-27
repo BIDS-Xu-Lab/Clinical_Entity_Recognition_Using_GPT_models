@@ -1,0 +1,11 @@
+The	O
+patient	O
+underwent	O
+incision	B-treatment
+and	O
+drainage	B-treatment
+in	O
+the	O
+emergency	O
+department	O
+.	O

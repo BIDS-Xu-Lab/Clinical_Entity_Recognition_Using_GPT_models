@@ -1,0 +1,12 @@
+Denies	O
+any	B-problem
+headache	I-problem
+,	O
+fever	B-problem
+,	O
+cough	B-problem
+,	O
+or	O
+sore	B-problem
+throat	I-problem
+.	O

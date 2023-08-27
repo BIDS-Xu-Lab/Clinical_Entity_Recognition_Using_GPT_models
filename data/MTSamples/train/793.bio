@@ -1,0 +1,16 @@
+The	B-test
+transbronchial	I-test
+biopsies	I-test
+did	O
+not	O
+show	O
+any	O
+evidence	O
+of	O
+pneumocystis	B-problem
+,	O
+fungal	B-problem
+infection	I-problem
+,	O
+AFB	B-problem
+.	O

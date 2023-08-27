@@ -1,0 +1,15 @@
+Physical	O
+examination	O
+on	O
+admission	O
+was	O
+unremarkable	O
+except	O
+for	O
+the	O
+obvious	O
+signs	O
+autistic	B-problem
+spectrum	I-problem
+disorder	I-problem
+.	O

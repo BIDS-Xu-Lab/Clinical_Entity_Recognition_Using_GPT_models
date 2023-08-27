@@ -1,0 +1,16 @@
+Repeat	B-test
+ultrasound	I-test
+there	O
+on	O
+02/20/2007	O
+showed	O
+no	O
+evidence	O
+of	O
+deep	B-problem
+venous	I-problem
+thrombosis	I-problem
+(	I-problem
+DVT	I-problem
+)	I-problem
+.	O

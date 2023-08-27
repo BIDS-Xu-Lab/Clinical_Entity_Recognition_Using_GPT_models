@@ -1,0 +1,15 @@
+The	O
+patient	O
+was	O
+started	O
+on	O
+ganciclovir	B-treatment
+once	O
+her	B-test
+CMV	I-test
+serologies	I-test
+had	O
+come	O
+back	O
+positive	O
+.	O

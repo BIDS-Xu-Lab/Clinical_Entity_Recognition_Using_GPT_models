@@ -1,0 +1,16 @@
+There	O
+is	O
+a	O
+concern	O
+that	O
+the	O
+patient	O
+had	O
+a	B-problem
+low	I-problem
+-	I-problem
+grade	I-problem
+fever	I-problem
+of	I-problem
+100	I-problem
+.	I-problem

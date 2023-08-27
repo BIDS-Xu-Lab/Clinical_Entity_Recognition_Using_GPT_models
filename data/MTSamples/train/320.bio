@@ -1,0 +1,9 @@
+Indicates	O
+pressure	B-problem
+type	I-problem
+of	I-problem
+discomfort	I-problem
+with	O
+throbbing	B-problem
+component	I-problem
+.	O

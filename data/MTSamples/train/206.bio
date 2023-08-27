@@ -1,0 +1,10 @@
+He	O
+was	O
+intubated	O
+and	O
+placed	O
+on	O
+mechanical	B-treatment
+ventilatory	I-treatment
+support	I-treatment
+.	O

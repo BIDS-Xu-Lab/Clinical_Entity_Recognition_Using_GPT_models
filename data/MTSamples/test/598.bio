@@ -1,0 +1,12 @@
+He	O
+denied	O
+diarrhea	B-problem
+,	O
+dysuria	B-problem
+,	O
+hematuria	B-problem
+,	O
+urgency	B-problem
+and	O
+frequency	B-problem
+.	O

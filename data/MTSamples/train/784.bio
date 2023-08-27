@@ -1,0 +1,11 @@
+He	O
+ordered	O
+serologies	B-test
+for	O
+CMV	B-problem
+including	O
+a	B-test
+CMV	I-test
+blood	I-test
+PCR	I-test
+.	O

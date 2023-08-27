@@ -1,0 +1,13 @@
+The	O
+patient	O
+stated	O
+that	O
+the	B-problem
+abdominal	I-problem
+pain	I-problem
+was	O
+only	O
+associated	O
+with	O
+coughing	B-problem
+.	O

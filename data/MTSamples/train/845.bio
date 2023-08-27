@@ -1,0 +1,13 @@
+Her	B-test
+blood	I-test
+sugar	I-test
+was	O
+found	O
+to	O
+be	O
+40	O
+because	O
+of	O
+poor	B-problem
+p	I-problem
+.	I-problem

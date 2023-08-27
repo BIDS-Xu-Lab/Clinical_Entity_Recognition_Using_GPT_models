@@ -1,0 +1,9 @@
+The	B-test
+CMV	I-test
+serology	I-test
+came	O
+back	O
+positive	O
+for	O
+IgM	B-test
+.	O

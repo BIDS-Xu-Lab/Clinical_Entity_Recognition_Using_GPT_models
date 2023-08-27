@@ -1,0 +1,13 @@
+He	O
+was	O
+started	O
+on	O
+cyclophosphamide	B-treatment
+and	O
+prednisone	B-treatment
+and	O
+his	B-problem
+lymphadenopathy	I-problem
+dramatically	O
+improved	O
+.	O

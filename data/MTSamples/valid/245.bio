@@ -1,0 +1,12 @@
+Mom	O
+denies	O
+any	B-problem
+apnea	I-problem
+,	O
+perioral	B-problem
+cyanosis	I-problem
+,	O
+or	O
+color	B-problem
+changes	I-problem
+.	O

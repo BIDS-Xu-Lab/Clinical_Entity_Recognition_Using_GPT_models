@@ -1,0 +1,7 @@
+She	O
+has	O
+had	O
+positive	O
+blood	B-test
+cultures	I-test
+.	O

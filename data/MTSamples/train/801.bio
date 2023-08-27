@@ -1,0 +1,17 @@
+A	B-test
+chest	I-test
+x	I-test
+-	I-test
+ray	I-test
+prior	O
+to	O
+discharge	O
+showed	O
+some	B-problem
+bibasilar	I-problem
+disease	I-problem
+,	O
+showing	O
+interstitial	B-problem
+infiltrates	I-problem
+.	O

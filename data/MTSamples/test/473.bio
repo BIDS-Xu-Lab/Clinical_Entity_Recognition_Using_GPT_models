@@ -1,0 +1,17 @@
+Her	O
+course	O
+was	O
+complicated	O
+by	O
+pulmonary	B-problem
+embolus	I-problem
+,	O
+pneumonia	B-problem
+,	O
+and	O
+subdural	B-problem
+hematoma	I-problem
+while	O
+on	O
+anticoagulation	B-treatment
+.	O

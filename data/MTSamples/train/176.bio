@@ -1,0 +1,13 @@
+The	O
+patient	O
+does	O
+have	O
+a	O
+past	O
+medical	O
+history	O
+of	O
+diabetes	B-problem
+and	O
+hypertension	B-problem
+.	O

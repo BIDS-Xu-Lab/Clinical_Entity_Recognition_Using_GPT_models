@@ -1,0 +1,17 @@
+The	O
+patient	O
+was	O
+discharged	O
+on	O
+HAART	B-treatment
+and	O
+later	O
+returned	O
+for	O
+2	O
+cycles	O
+of	O
+modified	B-treatment
+CHOP	I-treatment
+chemotherapy	I-treatment
+.	O

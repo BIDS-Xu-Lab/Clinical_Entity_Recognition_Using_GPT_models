@@ -1,0 +1,9 @@
+The	O
+patient	O
+usually	O
+still	O
+takes	O
+her	B-treatment
+diabetic	I-treatment
+medication	I-treatment
+.	O

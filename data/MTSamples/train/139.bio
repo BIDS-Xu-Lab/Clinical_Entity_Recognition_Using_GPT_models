@@ -1,0 +1,16 @@
+Multiple	B-test
+wound	I-test
+cultures	I-test
+have	O
+repeatedly	O
+grown	O
+Pseudomonas	B-problem
+,	O
+Enterococcus	B-problem
+,	O
+and	O
+Stenotrophomonas	B-problem
+in	O
+the	O
+past	O
+.	O

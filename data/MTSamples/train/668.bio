@@ -1,0 +1,17 @@
+She	O
+was	O
+brought	O
+in	O
+by	O
+the	O
+EMS	O
+service	O
+to	O
+Erlanger	O
+emergency	O
+department	O
+with	O
+pulseless	B-problem
+electrical	I-problem
+activity	I-problem
+.	O

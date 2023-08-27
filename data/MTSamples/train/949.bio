@@ -1,0 +1,9 @@
+Has	O
+no	O
+nausea	B-problem
+,	O
+vomiting	B-problem
+,	O
+abdominal	B-problem
+pain	I-problem
+.	O

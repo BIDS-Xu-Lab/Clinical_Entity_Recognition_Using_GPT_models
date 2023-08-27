@@ -1,0 +1,17 @@
+She	O
+denies	O
+any	B-problem
+chest	I-problem
+pain	I-problem
+or	O
+shortness	B-problem
+of	I-problem
+breath	I-problem
+,	O
+nausea	B-problem
+,	O
+vomiting	B-problem
+,	O
+or	O
+dysuria	B-problem
+.	O

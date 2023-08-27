@@ -1,0 +1,14 @@
+For	O
+his	B-problem
+congestive	I-problem
+cardiac	I-problem
+failure	I-problem
+,	O
+he	O
+was	O
+restarted	O
+on	O
+Digoxin	B-treatment
+and	O
+lisinopril	B-treatment
+.	O

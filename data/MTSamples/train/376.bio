@@ -1,0 +1,15 @@
+She	O
+does	O
+have	O
+a	O
+history	O
+of	O
+pulmonary	B-problem
+embolus	I-problem
+and	O
+a	B-treatment
+right	I-treatment
+lower	I-treatment
+lobe	I-treatment
+lobectomy	I-treatment
+.	O

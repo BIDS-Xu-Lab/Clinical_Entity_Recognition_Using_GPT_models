@@ -1,0 +1,10 @@
+The	O
+patient	O
+denies	O
+any	O
+chest	B-problem
+pain	I-problem
+or	O
+difficulty	B-problem
+breathing	I-problem
+.	O

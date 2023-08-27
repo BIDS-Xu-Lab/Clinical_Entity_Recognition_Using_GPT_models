@@ -1,0 +1,10 @@
+He	O
+did	O
+not	O
+have	O
+any	O
+apnea	B-problem
+during	O
+this	B-problem
+episode	I-problem
+.	O

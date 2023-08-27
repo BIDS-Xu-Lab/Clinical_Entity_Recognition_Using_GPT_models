@@ -1,0 +1,16 @@
+Denied	O
+any	B-problem
+urinary	I-problem
+disturbances	I-problem
+,	O
+difficulty	B-problem
+,	O
+burning	B-problem
+micturition	I-problem
+,	O
+hematuria	B-problem
+,	O
+or	O
+back	B-problem
+pain	I-problem
+.	O

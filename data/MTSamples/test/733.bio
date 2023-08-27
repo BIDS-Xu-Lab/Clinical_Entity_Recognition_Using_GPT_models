@@ -1,0 +1,11 @@
+The	O
+patient	O
+also	O
+reports	O
+a	B-problem
+15	I-problem
+-	I-problem
+pound	I-problem
+weight	I-problem
+loss	I-problem
+.	O

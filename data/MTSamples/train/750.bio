@@ -1,0 +1,17 @@
+Postop	B-problem
+acute	I-problem
+blood	I-problem
+loss	I-problem
+anemia	I-problem
+was	O
+treated	O
+with	O
+blood	B-treatment
+transfusions	I-treatment
+to	O
+an	O
+adequate	O
+level	O
+of	O
+hemoglobin	B-test
+.	O

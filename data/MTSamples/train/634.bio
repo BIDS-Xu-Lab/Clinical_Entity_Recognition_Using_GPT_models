@@ -1,0 +1,7 @@
+Nephrology	O
+is	O
+consulted	O
+regarding	O
+renal	B-problem
+insufficiency	I-problem
+.	O

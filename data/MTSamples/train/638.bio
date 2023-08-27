@@ -1,0 +1,14 @@
+A	B-test
+Doppler	I-test
+ultrasound	I-test
+of	I-test
+her	I-test
+leg	I-test
+that	O
+was	O
+performed	O
+today	O
+noted	O
+a	B-problem
+DVT	I-problem
+.	O

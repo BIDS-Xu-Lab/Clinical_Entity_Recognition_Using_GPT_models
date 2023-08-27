@@ -1,0 +1,12 @@
+Excisional	B-test
+lymph	I-test
+node	I-test
+biopsy	I-test
+during	O
+that	O
+admission	O
+showed	O
+multicentric	B-problem
+Castlemans	I-problem
+Disease	I-problem
+.	O

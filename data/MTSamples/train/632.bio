@@ -1,0 +1,14 @@
+The	O
+patient	O
+denies	O
+any	B-problem
+chest	I-problem
+pain	I-problem
+,	O
+palpitations	B-problem
+,	O
+syncope	B-problem
+,	O
+or	O
+fever	B-problem
+.	O

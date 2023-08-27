@@ -1,0 +1,8 @@
+Continuous	B-treatment
+intravenous	I-treatment
+unfractionated	I-treatment
+heparin	I-treatment
+infusion	I-treatment
+was	O
+continued	O
+.	O

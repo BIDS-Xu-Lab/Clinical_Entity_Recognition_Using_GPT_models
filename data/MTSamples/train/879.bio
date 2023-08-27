@@ -1,0 +1,15 @@
+Blood	B-test
+pressure	I-test
+quickly	O
+came	O
+back	O
+to	O
+normal	O
+with	O
+the	B-treatment
+patient	I-treatment
+'	I-treatment
+s	I-treatment
+reverse	I-treatment
+Trendelenburg	I-treatment
+.	O

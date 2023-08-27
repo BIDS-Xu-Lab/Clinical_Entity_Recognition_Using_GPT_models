@@ -1,0 +1,17 @@
+He	O
+was	O
+given	O
+1	B-treatment
+dose	I-treatment
+of	I-treatment
+Zosyn	I-treatment
+and	O
+then	O
+started	O
+on	O
+levofloxacin	B-treatment
+and	O
+Flagyl	B-treatment
+last	O
+night	O
+.	O

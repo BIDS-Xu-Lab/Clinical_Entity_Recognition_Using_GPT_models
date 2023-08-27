@@ -1,0 +1,16 @@
+X	B-test
+-	I-test
+ray	I-test
+of	I-test
+the	I-test
+low	I-test
+back	I-test
+did	O
+show	O
+a	B-problem
+mild	I-problem
+compression	I-problem
+fracture	I-problem
+of	I-problem
+L1	I-problem
+.	O

@@ -1,0 +1,17 @@
+The	O
+brother	O
+is	O
+also	O
+sick	O
+with	O
+URI	B-problem
+symptoms	I-problem
+,	O
+and	O
+the	O
+patient	O
+has	O
+had	O
+no	O
+diarrhea	B-problem
+.	O

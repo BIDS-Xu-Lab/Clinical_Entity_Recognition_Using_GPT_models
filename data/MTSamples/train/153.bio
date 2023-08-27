@@ -1,0 +1,10 @@
+He	O
+then	O
+changed	O
+antibiotic	B-treatment
+regiment	I-treatment
+to	O
+vancomycin	B-treatment
+and	O
+doripenem	B-treatment
+.	O

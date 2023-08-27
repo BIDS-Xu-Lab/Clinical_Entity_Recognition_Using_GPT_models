@@ -1,0 +1,14 @@
+Multiple	O
+blood	O
+studies	O
+have	O
+been	O
+done	O
+including	O
+cultures	B-test
+,	O
+febrile	B-test
+agglutinins	I-test
+,	O
+etc	O
+.	O

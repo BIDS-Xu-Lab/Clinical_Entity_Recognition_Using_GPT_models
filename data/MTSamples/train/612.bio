@@ -1,0 +1,17 @@
+She	O
+presents	O
+to	O
+the	O
+emergency	O
+room	O
+today	O
+with	O
+elevated	B-problem
+blood	I-problem
+pressure	I-problem
+and	O
+extreme	B-problem
+nausea	I-problem
+and	O
+vomiting	B-problem
+.	O

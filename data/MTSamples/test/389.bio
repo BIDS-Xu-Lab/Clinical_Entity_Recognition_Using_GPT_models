@@ -1,0 +1,14 @@
+She	O
+was	O
+evaluated	O
+in	O
+the	O
+Bariatric	O
+Surgical	O
+Center	O
+for	O
+placement	B-treatment
+of	I-treatment
+a	I-treatment
+band	I-treatment
+.	O

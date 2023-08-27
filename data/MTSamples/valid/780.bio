@@ -1,0 +1,7 @@
+CT	B-test
+abdomen	I-test
+and	I-test
+pelvis	I-test
+was	O
+normal	O
+.	O

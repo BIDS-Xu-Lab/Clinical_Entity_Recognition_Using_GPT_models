@@ -1,0 +1,15 @@
+A	B-treatment
+stent	I-treatment
+was	O
+placed	O
+approximately	O
+6	O
+weeks	O
+ago	O
+after	O
+urethroscopic	B-treatment
+placement	I-treatment
+with	O
+some	O
+difficulty	O
+.	O

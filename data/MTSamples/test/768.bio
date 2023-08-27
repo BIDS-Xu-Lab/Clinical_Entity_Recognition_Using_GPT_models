@@ -1,0 +1,15 @@
+The	O
+patient	O
+has	O
+also	O
+been	O
+on	O
+high	B-treatment
+-	I-treatment
+dose	I-treatment
+prednisone	I-treatment
+for	O
+an	B-problem
+urticarial	I-problem
+rash	I-problem
+.	O

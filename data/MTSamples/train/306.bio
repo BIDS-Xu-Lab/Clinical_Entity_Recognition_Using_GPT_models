@@ -1,0 +1,12 @@
+The	O
+patient	O
+has	O
+not	O
+had	O
+any	B-problem
+headache	I-problem
+,	O
+nausea	B-problem
+or	O
+vomiting	B-problem
+.	O

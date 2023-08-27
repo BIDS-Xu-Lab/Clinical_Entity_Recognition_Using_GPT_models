@@ -1,0 +1,11 @@
+The	O
+patient	O
+is	O
+wanting	O
+to	O
+lose	O
+weight	O
+before	O
+her	B-treatment
+surgery	I-treatment
+.	O

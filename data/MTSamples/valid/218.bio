@@ -1,0 +1,16 @@
+She	O
+was	O
+now	O
+admitted	O
+following	O
+a	O
+complex	O
+medical	O
+course	O
+for	O
+respiratory	B-problem
+failure	I-problem
+and	O
+enterocutaneous	B-problem
+fistula	I-problem
+.	O

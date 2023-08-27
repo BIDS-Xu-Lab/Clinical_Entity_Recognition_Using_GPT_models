@@ -1,0 +1,15 @@
+The	O
+patient	O
+received	O
+her	B-treatment
+first	I-treatment
+cycle	I-treatment
+of	I-treatment
+chemotherapy	I-treatment
+on	O
+MM	O
+/	O
+DD	O
+/	O
+YYYY	O
+.	O

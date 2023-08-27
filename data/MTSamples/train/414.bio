@@ -1,0 +1,13 @@
+The	O
+patient	O
+was	O
+not	O
+started	O
+on	O
+any	O
+antibiotics	B-treatment
+and	O
+his	O
+fever	B-problem
+resolved	O
+.	O

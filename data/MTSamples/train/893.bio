@@ -1,0 +1,13 @@
+The	O
+patient	O
+states	O
+that	O
+he	O
+was	O
+attempting	O
+to	O
+do	O
+a	B-test
+blood	I-test
+gas	I-test
+.	O

@@ -1,0 +1,10 @@
+Abdominal	B-test
+ultrasound	I-test
+showed	O
+mild	B-problem
+-	I-problem
+to	I-problem
+-	I-problem
+moderate	I-problem
+ascites	I-problem
+.	O

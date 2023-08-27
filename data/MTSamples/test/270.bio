@@ -1,0 +1,12 @@
+The	O
+patient	O
+has	O
+had	O
+short	B-problem
+respiratory	I-problem
+pauses	I-problem
+following	O
+the	B-problem
+coughing	I-problem
+events	I-problem
+.	O

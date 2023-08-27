@@ -1,0 +1,12 @@
+The	O
+patient	O
+was	O
+recently	O
+admitted	O
+to	O
+Hospital	O
+with	O
+lower	B-problem
+extremity	I-problem
+cellulitis	I-problem
+.	O

@@ -1,0 +1,15 @@
+The	O
+patient	O
+denies	O
+headache	B-problem
+,	O
+visual	B-problem
+changes	I-problem
+,	O
+chest	B-problem
+pain	I-problem
+and	O
+shortness	B-problem
+of	I-problem
+breath	I-problem
+.	O

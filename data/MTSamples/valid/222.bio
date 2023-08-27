@@ -1,0 +1,17 @@
+The	O
+patient	O
+also	O
+has	O
+a	B-treatment
+chest	I-treatment
+tube	I-treatment
+in	O
+the	O
+left	O
+chest	O
+wall	O
+for	O
+significant	B-problem
+pleural	I-problem
+effusion	I-problem
+.	O

@@ -1,0 +1,7 @@
+DVT	B-treatment
+prophylaxis	I-treatment
+was	O
+initiated	O
+with	O
+Lovenox	B-treatment
+.	O

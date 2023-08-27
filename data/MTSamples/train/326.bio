@@ -1,0 +1,6 @@
+No	O
+cough	B-problem
+or	O
+cold	B-problem
+symptoms	I-problem
+.	O

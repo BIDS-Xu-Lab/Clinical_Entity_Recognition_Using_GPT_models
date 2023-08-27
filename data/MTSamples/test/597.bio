@@ -1,0 +1,10 @@
+He	O
+denied	O
+fever	B-problem
+,	O
+chills	B-problem
+,	O
+and	O
+night	B-problem
+sweats	I-problem
+.	O

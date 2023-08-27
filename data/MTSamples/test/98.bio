@@ -1,0 +1,13 @@
+Colonoscopy	B-test
+did	O
+reveal	O
+diverticulosis	B-test
+and	O
+EGD	B-test
+showed	O
+retained	B-problem
+bile	I-problem
+and	O
+possible	O
+gastritis	B-problem
+.	O

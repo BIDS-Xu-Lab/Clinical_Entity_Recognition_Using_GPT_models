@@ -1,0 +1,14 @@
+Her	B-test
+rapid	I-test
+strep	I-test
+screen	I-test
+was	O
+negative	O
+but	O
+the	B-test
+infectious	I-test
+mononucleosis	I-test
+screen	I-test
+is	O
+positive	O
+.	O

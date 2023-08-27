@@ -1,0 +1,10 @@
+The	O
+patient	O
+denies	O
+any	B-problem
+shortness	I-problem
+of	I-problem
+breath	I-problem
+or	O
+cough	B-problem
+.	O

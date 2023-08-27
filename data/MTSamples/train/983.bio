@@ -1,0 +1,7 @@
+Her	B-test
+fasting	I-test
+insulin	I-test
+level	I-test
+was	O
+normal	O
+.	O

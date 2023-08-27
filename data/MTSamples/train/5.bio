@@ -1,0 +1,12 @@
+She	O
+was	O
+admitted	O
+to	O
+the	O
+hospitalist	O
+service	O
+with	O
+elevated	B-problem
+blood	I-problem
+sugars	I-problem
+.	O
