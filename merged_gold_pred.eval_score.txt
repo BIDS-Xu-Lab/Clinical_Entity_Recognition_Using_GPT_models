@@ -1,0 +1,5 @@
+P(exact)	R(exact)	F1(exact)	P(relax)	R(relax)	F1(relax)	right	right_predict	right_gold	predict	gold	Semantic
+0.570	0.533	0.551	0.871	0.824	0.847	106	162	164	186	199	problem
+0.395	0.300	0.341	0.763	0.580	0.659	15	29	29	38	50	test
+0.361	0.371	0.366	0.694	0.714	0.704	13	25	25	36	35	treatment
+0.515	0.472	0.493	0.831	0.768	0.798	134	216	218	260	284	overall
