@@ -1,4 +1,4 @@
-For each GPT model and each dataset, there are 5 folders including:
+For each GPT model and each dataset, there are 5 output folders including:
 
 1. baseline: This folder contains outputs using only component (1) Baseline prompts
 
